@@ -1,0 +1,1 @@
+This is my project in Artificial Intelligence. I  have implemented min - max algorithm with heuristic. Python 2.4 has been used. To run it you need to instal python 2.4 and then typr this ./maxconnect4.py one-move input1.txt output1.txt 10 
